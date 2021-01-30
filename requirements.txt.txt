@@ -1,0 +1,6 @@
+software/libsvm-3.14/matlab/make
+http://masterravi.wordpress.com/tag/bag-of-words/
+http://www.robots.ox.ac.uk/~vgg/software/ : VGG Group in Oxford
+http://www.vlfeat.org/index.html : VLFeat Library
+http://www.csie.ntu.edu.tw/~cjlin/libsvm/ : LibSVM Library
+knn search algorithm
