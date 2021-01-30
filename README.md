@@ -1,2 +1,1 @@
-# MLVDA
-Lab Works in Machine Learning
+This project is based on Machine Learning Project
